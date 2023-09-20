@@ -19,3 +19,7 @@ Passionate about technology and programming, currently a student of computer sys
 # 👨🏻‍💻 CTF Player:
 [<img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-1024x1024-4ufmqn5r.png" alt="hackthebox" width="100"/>](https://app.hackthebox.com/profile/1361621)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JoshTriix&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JoshTriix&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshTriix&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
