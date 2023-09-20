@@ -14,6 +14,6 @@ Passionate about technology and programming, currently a student of computer sys
 - MacOS
 
 # 👨🏻‍💻 CTF Player:
-[<img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-1024x1024-4ufmqn5r.png" alt="hackthebox" width="100"/>](https://app.hackthebox.com/profile/YukaFake)
+[<img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-1024x1024-4ufmqn5r.png" alt="hackthebox" width="100"/>](https://app.hackthebox.com/profile/overview)
 ...
 
