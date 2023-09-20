@@ -12,7 +12,7 @@ Passionate about technology and programming, currently a student of computer sys
 - ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black)
 - ![MacOS](https://img.shields.io/badge/macOS-%23999999.svg?logo=apple&logoColor=white)
-- ![Apache](https://img.shields.io/badge/Apache%202-%23D22128.svg?logo=apache&logoColor=white)
+- ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 
 
